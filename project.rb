@@ -10,3 +10,7 @@ end
 def method3
 	puts"this is method3"
 end
+
+def method5
+	puts"this is method5"
+end
