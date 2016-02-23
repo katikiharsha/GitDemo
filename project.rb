@@ -11,6 +11,11 @@ def method3
 	puts"this is method3"
 end
 
-def method5
-	puts"this is method5"
+def method4
+	puts"this is method4"
 end
+
+def method5
+	puts"this method5"
+end
+
